@@ -1,0 +1,20 @@
+Project Setup
+     software:
+     RealTime -- Software Request - Manager App
+     
+    node
+      -Environment Variables --> Setup
+    npm - Node package Manger - it will come with NODE
+    nvm -- Node Version Manager - (nvm v16) Separate Intalation.
+
+    Code Editor:
+          --Visual Studio Code -- VSC
+    
+    version Control:
+      -Github
+
+    Optional:
+    2021 - code base - 16version
+    2023 - Node 20version
+      Folder Structure:
+      Create a folder in react - npx create-react-app paytm_clone
